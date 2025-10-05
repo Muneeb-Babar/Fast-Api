@@ -1,0 +1,5 @@
+Register: /auth/register
+
+Login: /auth/login
+
+Products CRUD: /products
